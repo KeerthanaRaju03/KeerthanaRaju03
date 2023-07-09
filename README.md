@@ -1,7 +1,6 @@
-
+###
 <h1 align="center">
-    Hi <img src='./assets/wave.gif' height='26' alt='there'>, I'm Keerthana R 👋
-</h1>
+    Hi there, I'm Keerthana R <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"></h1>
 
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+software+developer+from+India" alt="Welcome to my GitHub Profile. I am a passionat software developer from India." />
@@ -11,7 +10,7 @@
 <h4 align="center">
     I am an Engineer student.<br />
     Currently, I am pursuing a BE in Electrical and Electronic Engineering in Velalar College of Engineering and Technology<br />
-    I like solving competitive coding problems, exploring new technologies, glass painting and travelling.
+    I like exploring new technologies.
 </h4>
 
 <p align='center' style='margin: 16px 4px 8px;'>
@@ -67,11 +66,3 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keerthanaraju03&theme=dark" alt="keerthanaraju03" /></p>
 </div>
 
-###
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/keerthana_rk0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keerthana_rk0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/keerthana-r-628178246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/keerthana-r-628178246" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/keerthanaraju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="keerthanaraju" height="30" width="40" /></a>
-</p
